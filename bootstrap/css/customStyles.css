@@ -1,0 +1,38 @@
+#footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #343f56; 
+    position: absolute;
+ }
+ .icon-green {
+    color: green;
+  }
+  
+  .icon-red {
+    color: red;
+  }
+
+  .table-container{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 8px;
+    border: 2px solid #000;
+    box-shadow: 5px 5px 10px 1px #000;
+  }
+
+  .btntest{
+    float: left;
+  }
+
+  .textarea-size{
+    resize: none;
+    height: 100px;
+  }
+
+#mensaje{
+  visibility: hidden;
+}
+
